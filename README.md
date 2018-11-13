@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 13th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Layton Lewis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the HTML DOM and how JavaScript is used to access and change the elements of an HTML document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/ll17b/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how JavaScript is used to access and change the elements of an HTML document.
+2. Told about the functions of HTML DOM.
+3. Learned how to apply photos to be displayed.
 
