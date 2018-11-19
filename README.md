@@ -13,7 +13,7 @@ Layton Lewis
 This lesson introduces the HTML DOM and how JavaScript is used to access and change the elements of an HTML document.
 
 ### View Project:
-https://github.com/ll17b/lesson6_javascript3
+https://ll17b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. Learned how JavaScript is used to access and change the elements of an HTML document.
